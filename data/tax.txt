@@ -1,0 +1,136 @@
+scaffold	phylum	count	all.phylum.assignments	class	all.class.assignments
+177	Bacteroidetes/Chlorobi group	2	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes;Bacteroidetes
+429	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+144	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanomicrobia	Methanomicrobia;Methanomicrobia
+42	Chloroflexi <phylum>	5	Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>	Anaerolineae	Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Caldilineae
+193	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+154	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+848	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+12	Chloroflexi <phylum>	9	Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>	Anaerolineae	Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae
+109	Bacteroidetes/Chlorobi group	4	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes;Bacteroidetes;Bacteroidetes;NA
+41	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+17	Chloroflexi <phylum>	2	Chloroflexi <phylum>;NA	Anaerolineae	Anaerolineae;NA
+6971	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+267	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+64	Chloroflexi <phylum>	4	Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>	Anaerolineae	Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae
+69	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+15	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+14	Chloroflexi <phylum>	9	NA;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>	Anaerolineae	NA;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae
+291	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+201	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+40	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+57	Euryarchaeota	13	Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria
+90	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+66	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+60	Bacteroidetes/Chlorobi group	5	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes;Bacteroidetes;Bacteroidetes;NA;NA
+1515	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+86	Euryarchaeota	3	Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria
+3119	Euryarchaeota	3	Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria
+362	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+87	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+3	Euryarchaeota	3	Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria
+13	Euryarchaeota	3	Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria
+280	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+190	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+681	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+925	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+410	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+52	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+14384	Actinobacteria <phylum>	1	Actinobacteria <phylum>	Actinobacteria	Actinobacteria
+2193	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+25	Bacteroidetes/Chlorobi group	3	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes;Bacteroidetes;NA
+1	Euryarchaeota	5	Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria
+104	Euryarchaeota	13	Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria
+22	Bacteroidetes/Chlorobi group	5	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;NA
+1476	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+243	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+1463	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+76	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+9	Euryarchaeota	5	Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria
+53	Bacteroidetes/Chlorobi group	14	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;NA;NA;NA;NA;Bacteroidetes
+235	Euryarchaeota	6	Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria
+217	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+19	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+27	Bacteroidetes/Chlorobi group	11	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;NA;NA;NA
+153	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+304	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+2667	Actinobacteria <phylum>	1	Actinobacteria <phylum>	Actinobacteria	Actinobacteria
+62	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+91	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+11	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+10460	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+307	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+26	Chloroflexi <phylum>	4	Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>	Anaerolineae	Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae
+23	Bacteroidetes/Chlorobi group	4	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes;Bacteroidetes;Bacteroidetes;NA
+899	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+1589	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+36	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+38	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+30	Euryarchaeota	3	Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria
+34	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+5397	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+80	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+5	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanomicrobia	Methanomicrobia;Methanomicrobia
+10	Euryarchaeota	3	Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria
+6998	Euryarchaeota	3	Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria
+54	Euryarchaeota	4	Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria
+2	Bacteroidetes/Chlorobi group	15	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;NA;NA;Bacteroidetes;Bacteroidetes
+112	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+13504	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+33	Chloroflexi <phylum>	6	Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>	Anaerolineae	Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae
+183	Euryarchaeota	3	Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria
+4421	Actinobacteria <phylum>	2	Actinobacteria <phylum>;Actinobacteria <phylum>	Actinobacteria	Actinobacteria;Actinobacteria
+1877	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+49	Chloroflexi <phylum>	5	NA;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Proteobacteria	Anaerolineae	NA;Anaerolineae;Anaerolineae;Anaerolineae;delta/epsilon subdivisions
+472	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+97	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+636	Euryarchaeota	4	Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria
+159	Bacteroidetes/Chlorobi group	2	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes;NA
+515	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+111	Bacteroidetes/Chlorobi group	1	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes
+139	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+81	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+58	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+122	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+5847	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+1427	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+179	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+47	Bacteroidetes/Chlorobi group	20	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;NA;NA;NA;NA;NA;NA;NA;Bacteroidetes;Bacteroidetes
+117	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+96	Euryarchaeota	10	Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria
+887	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+59	Chloroflexi <phylum>	11	NA;NA;Firmicutes;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>	Anaerolineae	NA;NA;Clostridia;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae
+44	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+138	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+28	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanomicrobia	Methanomicrobia;Methanomicrobia
+261	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+599	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+436	Euryarchaeota	4	Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria;Methanobacteria
+98	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanomicrobia	Methanomicrobia;Methanomicrobia
+16	Chloroflexi <phylum>	32	NA;NA;NA;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>	Anaerolineae	NA;NA;NA;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae
+152	Bacteroidetes/Chlorobi group	2	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	NA	NA
+2523	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+103	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+150	Bacteroidetes/Chlorobi group	3	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes;Bacteroidetes;NA
+1234	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+330	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+2174	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+126	Euryarchaeota	11	Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanomicrobia	Methanomicrobia;Methanomicrobia;Methanomicrobia;Methanomicrobia;Methanomicrobia;Methanomicrobia;Methanomicrobia;Methanomicrobia;Methanomicrobia;Methanomicrobia;Methanomicrobia
+102	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+24	Euryarchaeota	2	Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria
+18	Bacteroidetes/Chlorobi group	11	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;Bacteroidetes;NA;NA;NA;NA;Bacteroidetes
+50	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+1058	Firmicutes	1	Firmicutes	Clostridia	Clostridia
+92	Euryarchaeota	3	Euryarchaeota;Euryarchaeota;Euryarchaeota	Methanobacteria	Methanobacteria;Methanobacteria;Methanobacteria
+8786	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+100	Bacteroidetes/Chlorobi group	3	Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group;Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes;Bacteroidetes;Bacteroidetes
+29	Chloroflexi <phylum>	2	Chloroflexi <phylum>;Chloroflexi <phylum>	Anaerolineae	Anaerolineae;Anaerolineae
+165	Chloroflexi <phylum>	5	Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>	Anaerolineae	Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Thermomicrobia
+147	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+642	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+5478	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+1669	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+9538	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
+6	Chloroflexi <phylum>	9	NA;NA;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>;Chloroflexi <phylum>	Anaerolineae	NA;NA;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae;Anaerolineae
+174	Euryarchaeota	1	Euryarchaeota	Methanomicrobia	Methanomicrobia
+548	Euryarchaeota	1	Euryarchaeota	Methanobacteria	Methanobacteria
